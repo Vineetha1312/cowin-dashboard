@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.vaccination-coverage-section {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+}
+.coverage-heading {
+  color: #94a3b8;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
